@@ -1,0 +1,847 @@
+[
+  {
+    "Id": "70fb8125-e42a-45c8-abf6-6be771767fc1",
+    "Name": "Blue Origin Fams",
+    "Price": 50,
+    "IsPopular": false,
+    "IsAvailable": false,
+    "LocationId": "c89a924a-810f-444f-a219-5ec6c570bacb",
+    "Location": {
+      "Id": "c89a924a-810f-444f-a219-5ec6c570bacb",
+      "City": "Jakarta",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "fd4be72f-2f10-4242-8e89-2f88a3de6f13",
+      "NumberOfBedrooms": 4,
+      "NumberOfLivingrooms": 2,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 1000,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 2,
+      "NumberOfTelevisions": 4,
+      "HotelsId": "70fb8125-e42a-45c8-abf6-6be771767fc1",
+      "Hotels": {}
+    },
+   
+   
+    "Images": [
+      {
+        "Id": "16c0cb3e-09bf-4097-b894-af7386dba343",
+        "ImageUrl": "./Image folder/image2.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "70fb8125-e42a-45c8-abf6-6be771767fc1"
+      },
+      {
+        "Id": "627e14ed-20f1-4fe5-84cd-a2bbadbcc513",
+        "ImageUrl": "./Image folder/image2.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "70fb8125-e42a-45c8-abf6-6be771767fc1"
+      },
+      {
+        "Id": "b2a36dce-07e8-463c-b6be-64498bb68b16",
+        "ImageUrl": "./Image folder/image2.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "70fb8125-e42a-45c8-abf6-6be771767fc1"
+      }
+
+    ]
+  },
+  {
+    "Id": "0ecaeb6a-58d9-4fa1-9bb5-30f6d8949c41",
+    "Name": "Ocean Land",
+    "Price": 22,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "0daa93d0-7884-45d6-a9ba-08701f20e358",
+    "Location": {
+      "Id": "0daa93d0-7884-45d6-a9ba-08701f20e358",
+      "City": "Bandung",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "dae8ea63-46fb-4c07-843a-58774b41e260",
+      "NumberOfBedrooms": 2,
+      "NumberOfLivingrooms": 1,
+      "NumberOfBathrooms": 4,
+      "InternetSpeed": 300,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 1,
+      "NumberOfTelevHotelsIdisions": 2,
+      "HotelsId": "0ecaeb6a-58d9-4fa1-9bb5-30f6d8949c41",
+      "Hotels": {
+
+      }
+    }
+    ,
+    "Images": [
+      {
+        "Id": "a1e32c86-2c78-4d0f-bd91-f7f7682c3eb8",
+        "ImageUrl": "./Image folder/image3.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "0ecaeb6a-58d9-4fa1-9bb5-30f6d8949c41"
+      },
+      {
+        "Id": "8e72f469-e535-4336-abdd-b378f132c607",
+        "ImageUrl": "./Image folder/image3.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "0ecaeb6a-58d9-4fa1-9bb5-30f6d8949c41"
+      },
+      {
+        "Id": "aad557f5-27d1-48c7-9ca9-219ba8d0614a",
+        "ImageUrl": "./Image folder/image3.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "0ecaeb6a-58d9-4fa1-9bb5-30f6d8949c41"
+      }
+    ]
+  },
+  {
+    "Id": "cc59db86-246b-44d5-b1d4-e43c4b87972d",
+    "Name": "Stark House",
+    "Price": 856,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "c994c0dc-d24f-46a3-b28e-bfbae844bf68",
+    "Location": {
+      "Id": "c994c0dc-d24f-46a3-b28e-bfbae844bf68",
+      "City": "Malang",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "3b04da7a-f245-45af-8d4f-50539e492e26",
+      "NumberOfBedrooms": 3,
+      "NumberOfLivingrooms": 5,
+      "NumberOfBathrooms": 5,
+      "InternetSpeed": 900,
+      "NumberOfAc": 9,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 8,
+      "HotelsId": "cc59db86-246b-44d5-b1d4-e43c4b87972d",
+      "Hotels": {
+
+      }
+    },
+    
+    "Images": [
+      {
+        "Id": "af8b2fa1-3c37-4eb2-8978-ea2e10bc24e3",
+        "ImageUrl": "./Image folder/image4.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "cc59db86-246b-44d5-b1d4-e43c4b87972d"
+      },
+      {
+        "Id": "9a97f35d-5290-4a3b-917d-13714a56d4dd",
+        "ImageUrl": "./Image folder/image4.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "cc59db86-246b-44d5-b1d4-e43c4b87972d"
+      },
+      {
+        "Id": "0fe7fab4-955e-44b5-9379-dbb833c3e48c",
+        "ImageUrl": "./Image folder/image4.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "cc59db86-246b-44d5-b1d4-e43c4b87972d"
+      }
+    ]
+  },
+  {
+    "Id": "fce5ad96-5efd-4902-a205-d9453206803f",
+    "Name": "Vinna Vill",
+    "Price": 66,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "6e56b654-e1ae-4a71-8cea-5ec2ebbe8dbb",
+    "Location": {
+      "Id": "6e56b654-e1ae-4a71-8cea-5ec2ebbe8dbb",
+      "City": "Malang",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "f8b6ac7f-e6c3-4dd9-a1c0-b01af80f91df",
+      "NumberOfBedrooms": 3,
+      "NumberOfLivingrooms": 5,
+      "NumberOfBathrooms": 5,
+      "InternetSpeed": 600,
+      "NumberOfAc": 9,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 8,
+      "HotelsId": "fce5ad96-5efd-4902-a205-d9453206803f",
+      "Hotels": {}
+    },
+    
+    "Images": [
+      {
+        "Id": "60b80382-2dca-4797-9328-d3dca4f4cd1e",
+        "ImageUrl": "./Image folder/image5.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "fce5ad96-5efd-4902-a205-d9453206803f"
+      },
+      {
+        "Id": "0c0d2051-2793-44b6-9f2a-152c81696b89",
+        "ImageUrl": "./Image folder/image5.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "fce5ad96-5efd-4902-a205-d9453206803f"
+      },
+      {
+        "Id": "0563c482-0a7e-4cf9-aa03-1338c87a30a3",
+        "ImageUrl": "./Image folder/image5.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "fce5ad96-5efd-4902-a205-d9453206803f"
+      }
+    ]
+  },
+  {
+    "Id": " 5e57cda6-92a4-493a-8909-74284cfea8bf",
+    "Name": "Bobox",
+    "Price": 66,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "8b473c1b-f31c-4740-b34f-bf6340a8267d",
+    "Location": {
+      "Id": "8b473c1b-f31c-4740-b34f-bf6340a8267d",
+      "City": "Medan",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "933cddcc-0196-4841-8c5b-765fb507576b",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 3,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 400,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": " 5e57cda6-92a4-493a-8909-74284cfea8bf",
+      "Hotels": {}
+    },
+  
+    "Images": [
+      {
+        "Id": "68b38a14-26c1-4eb1-bb13-eff870036980",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": " 5e57cda6-92a4-493a-8909-74284cfea8bf"
+      },
+      {
+        "Id": "f2e1d625-5082-473b-bc6f-3a1d10282fee",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": " 5e57cda6-92a4-493a-8909-74284cfea8bf"
+      },
+      {
+        "Id": "9d0da446-5bc1-4084-9d16-046ac7c22199",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": " 5e57cda6-92a4-493a-8909-74284cfea8bf"
+      }
+    ]
+  },
+  {
+
+    "Id": "f20183c3-ef0a-4a9f-a6b7-231dfa26648c",
+    "Name": "Tabby Town",
+    "Price": 50,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "f3cb6d34-2371-41d5-a286-12b0cf53053a",
+    "Location": {
+      "Id": "f3cb6d34-2371-41d5-a286-12b0cf53053a",
+      "City": "Gunung Batu",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": " b4e2b161-15db-41d2-add0-bc0caf72decf",
+      "NumberOfBedrooms": 3,
+      "NumberOfLivingrooms": 1,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 500,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "f20183c3-ef0a-4a9f-a6b7-231dfa26648c",
+      "Hotels": {}
+    },
+    
+    "Images": [
+      {
+        "Id": "3ff12975-0438-4197-8d40-fc49acc24f6f",
+        "ImageUrl": "./Image folder/Tabby_town.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "f20183c3-ef0a-4a9f-a6b7-231dfa26648c"
+      },
+      {
+        "Id": "cc57b2a7-bec1-40db-9521-5f756c265b0e",
+        "ImageUrl": "./Image folder/Tabby_town.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "f20183c3-ef0a-4a9f-a6b7-231dfa26648c"
+      },
+      {
+        "Id": "0b008570-fd99-4903-8a23-92860370269c",
+        "ImageUrl": "./Image folder/Tabby_town.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "f20183c3-ef0a-4a9f-a6b7-231dfa26648c"
+      }
+    ]
+  },
+  {
+
+    "Id": "3ccc0d4c-b48f-4214-9c2b-96c21e3b759f",
+    "Name": "Anggana",
+    "Price": 22,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "e02b40f2-d38c-4162-9640-8c089446c668",
+    "Location": {
+      "Id": "e02b40f2-d38c-4162-9640-8c089446c668",
+      "City": "Bogor",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "b8f9f0b2-8069-432d-905b-18fa483a4dd9",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 1,
+      "NumberOfBathrooms": 1,
+      "InternetSpeed": 400,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "3ccc0d4c-b48f-4214-9c2b-96c21e3b759f",
+      "Hotels": {}
+    },
+   
+    "Images": [
+      {
+        "Id": "5a3e8a44-f962-49b9-903f-70a5221e58b0",
+        "ImageUrl": "./Image folder/Seattle_Rain.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "3ccc0d4c-b48f-4214-9c2b-96c21e3b759f"
+      },
+      {
+        "Id": "267a9139-5282-4fc2-aede-3a0d3aba5264",
+        "ImageUrl": "./Image folder/Seattle_Rain.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "3ccc0d4c-b48f-4214-9c2b-96c21e3b759f"
+      },
+      {
+        "Id": "44cb0ac7-ea76-48a6-8d1c-33ae1efc6813",
+        "ImageUrl": "./Image folder/Seattle_Rain.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "3ccc0d4c-b48f-4214-9c2b-96c21e3b759f"
+      }
+    ]
+  },
+  {
+
+    "Id": ". 96378ffc-edee-49fe-a9a2-1d2f9be5a1d9",
+    "Name": "Wodden Pit",
+    "Price": 856,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "f25e4643-d22d-4e73-a978-fea8ee8b1731",
+    "Location": {
+      "Id": "f25e4643-d22d-4e73-a978-fea8ee8b1731",
+      "City": "Wonosobo",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "85d634f8-e74b-4236-9878-ecf7e3b64cd4",
+      "NumberOfBedrooms": 4,
+      "NumberOfLivingrooms": 2,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 900,
+      "NumberOfAc": 4,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": ". 96378ffc-edee-49fe-a9a2-1d2f9be5a1d9",
+      "Hotels": {}
+    },
+
+    "Images": [
+      {
+        "Id": "b0e2a4d0-556f-401f-a3b4-11a7b2d1f5e3",
+        "ImageUrl": "./Image folder/wooden_pit.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": ". 96378ffc-edee-49fe-a9a2-1d2f9be5a1d9"
+      },
+      {
+        "Id": "de239eae-e6b9-4870-9829-459c74b1e2d2",
+        "ImageUrl": "./Image folder/wooden_pit.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": ". 96378ffc-edee-49fe-a9a2-1d2f9be5a1d9"
+      },
+      {
+        "Id": "18a70218-d95e-4cb7-b965-54a2c0566c16",
+        "ImageUrl": "./Image folder/wooden_pit.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": ". 96378ffc-edee-49fe-a9a2-1d2f9be5a1d9"
+      }
+    ]
+  },
+  {
+
+    "Id": "eaa86cdc-d1f9-499f-9c79-c21c477ff188",
+    "Name": "Seattle Rain",
+    "Price": 62,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": " 94668741-298b-433b-8eb4-5e6350731c2a",
+    "Location": {
+      "Id": " 94668741-298b-433b-8eb4-5e6350731c2a",
+      "City": "Medan",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "509cd3e4-6027-4f98-8c8f-291b1fe622d2",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 1,
+      "NumberOfBathrooms": 1,
+      "InternetSpeed": 400,
+      "NumberOfAc": 2,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "eaa86cdc-d1f9-499f-9c79-c21c477ff188",
+      "Hotels": {}
+    },
+  
+    "Images": [
+      {
+        "Id": "34a4e449-3e88-44d6-bcc8-c9ae5c8d309b",
+        "ImageUrl": "./Image folder/Seattle_Rain.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "eaa86cdc-d1f9-499f-9c79-c21c477ff188"
+      },
+      {
+        "Id": "ea54c1a5-5521-4041-b40e-cdd57192ff28",
+        "ImageUrl": "./Image folder/Seattle_Rain.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "eaa86cdc-d1f9-499f-9c79-c21c477ff188"
+      },
+      {
+        "Id": "dbb9f30b-8bdf-4135-8c71-0cce676a1882",
+        "ImageUrl": "./Image folder/Seattle_Rain.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "eaa86cdc-d1f9-499f-9c79-c21c477ff188"
+      }
+    ]
+  },
+  {
+    "Id": "254bb5da-7455-4b3d-8a1c-5a513fd8b41a",
+    "Name": "Green Park",
+    "Price": 50,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "2a49e6c5-d814-4d3c-ac4a-5959232009fe",
+    "Location": {
+      "Id": "2a49e6c5-d814-4d3c-ac4a-5959232009fe",
+      "City": "Tangerang",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "baa13356-1a4d-4b89-b94d-fed06450b15a",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 3,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 400,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "254bb5da-7455-4b3d-8a1c-5a513fd8b41a",
+      "Hotels": {}
+    },
+   
+    "Images": [
+      {
+        "Id": "1dab4b88-3594-495c-854d-a298d806ec39",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "254bb5da-7455-4b3d-8a1c-5a513fd8b41a"
+      },
+      {
+        "Id": "208d4fcf-ae2d-442e-9aed-aab9f1c524f4",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "254bb5da-7455-4b3d-8a1c-5a513fd8b41a"
+      },
+      {
+        "Id": "1253e44e-3c7f-407e-9f5a-3b96762d49ea",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "254bb5da-7455-4b3d-8a1c-5a513fd8b41a"
+      }
+    ]
+  },
+  {
+    "Id": "66e50f3a-7f98-4ce6-b0f8-37c7f98c6f36",
+    "Name": "Podo Wae",
+    "Price": 66,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "1d4bf173-cb09-4cb9-87f0-cedb8cd1c562",
+    "Location": {
+      "Id": "1d4bf173-cb09-4cb9-87f0-cedb8cd1c562",
+      "City": "Madiun",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "1a5c1be3-b925-4805-be1c-f99fe6a22a53",
+      "NumberOfBedrooms": 2,
+      "NumberOfLivingrooms": 2,
+      "NumberOfBathrooms": 2,
+      "InternetSpeed": 700,
+      "NumberOfAc": 1,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "66e50f3a-7f98-4ce6-b0f8-37c7f98c6f36",
+      "Hotels": {}
+    },
+    
+    "Images": [
+      {
+        "Id": "e23c54c4-0a22-46fd-afdc-cfc858428c7e",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "66e50f3a-7f98-4ce6-b0f8-37c7f98c6f36"
+      },
+      {
+        "Id": "ef409da-965b-4322-81bb-b80c04fb3e8b",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "66e50f3a-7f98-4ce6-b0f8-37c7f98c6f36"
+      },
+      {
+        "Id": "61dde6ae-a1b8-4fc5-b55e-30ce84eac42c",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "66e50f3a-7f98-4ce6-b0f8-37c7f98c6f36"
+      }
+    ]
+  },
+  {
+    "Id": "8b867873-73bb-403e-845e-eaaaaf5e5a4f",
+    "Name": "Cashville",
+    "Price": 22,
+    "IsPopular": true,
+    "IsAvailable": true,
+    "LocationId": "153e5329-8630-45e0-adf9-84c6e85f2323",
+    "Location": {
+      "Id": "153e5329-8630-45e0-adf9-84c6e85f2323",
+      "City": "Kemang",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "89d341c6-3709-42b7-8306-37227f807fda",
+      "NumberOfBedrooms": 2,
+      "NumberOfLivingrooms": 3,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 500,
+      "NumberOfAc": 1,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "8b867873-73bb-403e-845e-eaaaaf5e5a4f",
+      "Hotels": {}
+    },
+    
+    "Images": [
+      {
+        "Id": "251b97c2-7160-4c14-a8cf-92662a61f50c",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "8b867873-73bb-403e-845e-eaaaaf5e5a4f"
+      },
+      {
+        "Id": "a038aa7b-2441-480f-a828-fa5d46fdc1cd",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "8b867873-73bb-403e-845e-eaaaaf5e5a4f"
+      },
+      {
+        "Id": "df57b0b6-2d52-466b-84f3-c3176e1eb57d",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "8b867873-73bb-403e-845e-eaaaaf5e5a4f"
+      }
+    ]
+  },
+  {
+    "Id": "ec39b06c-c0ab-4afa-81c1-f7218efa4585",
+    "Name": "Silver Rain",
+    "Price": 856,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "7db5434d-cd87-4021-98e8-c00041dcca63",
+    "Location": {
+      "Id": "7db5434d-cd87-4021-98e8-c00041dcca63",
+      "City": "Bandung",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "e517b952-f0cc-46b4-a3ce-3649d3688a63",
+      "NumberOfBedrooms": 2,
+      "NumberOfLivingrooms": 3,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 1000,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 2,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "ec39b06c-c0ab-4afa-81c1-f7218efa4585",
+      "Hotel": {}
+    },
+   
+    "Images": [
+      {
+        "Id": "04fb947d-2550-4345-b750-aa309cd6b0dc",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "ec39b06c-c0ab-4afa-81c1-f7218efa4585"
+      },
+      {
+        "Id": "33de3cd7-e18d-48ec-ba59-1188607c417d",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "ec39b06c-c0ab-4afa-81c1-f7218efa4585"
+      },
+      {
+        "Id": "657f1bda-bc36-49cb-b891-94ed809c3979",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "ec39b06c-c0ab-4afa-81c1-f7218efa4585"
+      }
+    ]
+  },
+  {
+    "Id": "c84d8f76-36b7-45af-9cc9-1e9d07f1b1ff",
+    "Name": "PS Wood",
+    "Price": 50,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "c55d3b41-0d54-46d6-909a-d762cba05ef6",
+    "Location": {
+      "Id": "c55d3b41-0d54-46d6-909a-d762cba05ef6",
+      "City": "Depok",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "3d9ed8bf-2029-4a7c-aa8b-25fcebeb9f73",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 3,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 400,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "c84d8f76-36b7-45af-9cc9-1e9d07f1b1ff",
+      "Hotels": {}
+    },
+    
+    "Images": [
+      {
+        "Id": "be20556a-1f67-40e5-8c9a-358359a4e7b9",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "c84d8f76-36b7-45af-9cc9-1e9d07f1b1ff"
+      },
+      {
+        "Id": "dbe96e60-1a97-422f-9689-5dcb88457178",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "c84d8f76-36b7-45af-9cc9-1e9d07f1b1ff"
+      },
+      {
+        "Id": "c1dab4a6-82d8-4242-a77e-2c0739db3054",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "c84d8f76-36b7-45af-9cc9-1e9d07f1b1ff"
+      }
+    ]
+  },
+  {
+    "Id": "ffc9b60e-2eb5-4a83-b989-fd2632eafe6a",
+    "Name": "One Five",
+    "Price": 22,
+    "IsPopular": true,
+    "IsAvailable": true,
+    "LocationId": "9011abe3-6bd8-41c8-8500-1b7b4a9c9456",
+    "Location": {
+      "Id": "9011abe3-6bd8-41c8-8500-1b7b4a9c9456",
+      "City": "Jakarta",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "4b3cb191-34f5-4c00-bd47-34cb3d757dd5",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 1,
+      "NumberOfBathrooms": 1,
+      "InternetSpeed": 700,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "ffc9b60e-2eb5-4a83-b989-fd2632eafe6a",
+      "Hotels": {}
+    },
+   
+    "Images": [
+      {
+        "Id": "d96c8ff9-73ce-4392-9145-aa7fbe282973",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "ffc9b60e-2eb5-4a83-b989-fd2632eafe6a"
+      },
+      {
+        "Id": "f1bbcb0a-418a-48c8-8120-c266acf26b57",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "ffc9b60e-2eb5-4a83-b989-fd2632eafe6a"
+      },
+      {
+        "Id": "cb5797b2-2760-4415-a7d5-b6c4b9621034",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "ffc9b60e-2eb5-4a83-b989-fd2632eafe6a"
+      }
+    ]
+  },
+  {
+    "Id": "46258d95-ea5c-465b-8aab-f61d824b8574",
+    "Name": "Minimal",
+    "Price": 66,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "f387ce88-b91f-4ea6-aabf-ecb850818e14",
+    "Location": {
+      "Id": "f387ce88-b91f-4ea6-aabf-ecb850818e14",
+      "City": "Bogor",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "0108bac6-d90c-4450-a57a-cfa8a924d32f",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 4,
+      "NumberOfBathrooms": 2,
+      "InternetSpeed": 700,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 4,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "46258d95-ea5c-465b-8aab-f61d824b8574",
+      "Hotels": {}
+    },
+   
+    "Images": [
+      {
+        "Id": "660435fe-ac14-4dc2-8ce5-feae3efe58b",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "46258d95-ea5c-465b-8aab-f61d824b8574"
+      },
+      {
+        "Id": "19ca01bd-2688-4969-81f4-3997aba22854",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "46258d95-ea5c-465b-8aab-f61d824b8574"
+      },
+      {
+        "Id": "0e316f04-5354-464d-82e3-a458218772a5",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "46258d95-ea5c-465b-8aab-f61d824b8574"
+      }
+    ]
+  },
+  {
+    "Id": "8368e665-f303-4e1a-867a-f87d9a73c8ed",
+    "Name": "Stays Home",
+    "Price": 62,
+    "IsPopular": false,
+    "IsAvailable": true,
+    "LocationId": "2e69c75d-98b0-48e5-96e3-bc618d450336",
+    "Location": {
+      "Id": "2e69c75d-98b0-48e5-96e3-bc618d450336",
+      "City": "Wonosobo",
+      "Country": "Indonesia"
+    },
+    "Details": {
+      "Id": "8214603e-3706-47c2-ac3e-d9b743e66d0b",
+      "NumberOfBedrooms": 1,
+      "NumberOfLivingrooms": 3,
+      "NumberOfBathrooms": 3,
+      "InternetSpeed": 400,
+      "NumberOfAc": 3,
+      "NumberOfRefrigerators": 3,
+      "NumberOfTelevisions": 2,
+      "HotelsId": "8368e665-f303-4e1a-867a-f87d9a73c8ed",
+      "Hotels": {}
+    },
+   
+    "Images": [
+      {
+        "Id": " 5ba88390-5281-4eec-b061-dde1aa987eb6",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": true,
+        "Hotels": {},
+        "HotelsId": "8368e665-f303-4e1a-867a-f87d9a73c8ed"
+      },
+      {
+        "Id": "307a2fcf-7bdf-41ee-a46a-70c113041620",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "8368e665-f303-4e1a-867a-f87d9a73c8ed"
+      },
+      {
+        "Id": "90a6c0d5-dd7f-4727-9465-73706c80f73f",
+        "ImageUrl": "./Image folder/image6.png",
+        "IsFeature": false,
+        "Hotels": {},
+        "HotelsId": "8368e665-f303-4e1a-867a-f87d9a73c8ed"
+      }
+    ]
+  }
+]  
+
+  
